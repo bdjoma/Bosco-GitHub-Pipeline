@@ -44,3 +44,4 @@ resource "aws_route_table" "rte" {
     Name = "github-cicd-route"
   }
 }
+
